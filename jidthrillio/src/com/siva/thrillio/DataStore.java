@@ -10,6 +10,9 @@ import com.siva.thrillio.entities.UserBookmark;
 import com.siva.thrillio.services.BookmarkService;
 import com.siva.thrillio.services.UserService;
 
+/*
+ * 	Class to store thrillio data
+ */
 public class DataStore {
 	
 	private static final int USER_BOOKMARK_LIMIT = 5;
